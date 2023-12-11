@@ -2,15 +2,15 @@
 
 I wrote an image viewer in C#.
 
-![image](https://github.com/tailogs/ViewPictures/assets/69743960/7870fec2-0cf2-46d8-80ff-8eaa60c69c6a)
+![image](Image/image-light.png)
 
 Figure 1. Screenshot of the main window with an open image in a light theme
 
-![image](https://github.com/tailogs/ViewPictures/assets/69743960/c9b94b32-8746-4b34-98f8-a6396870803b)
+![image](Image/image-black.png)
 
 Figure 2. Screenshot of the main window with an open image in a dark theme
 
-![image](https://github.com/tailogs/ViewPictures/assets/69743960/8ae3d9db-f46e-4163-a0fa-7bec698764bc)
+![image](Image/image-cyberpunk.png)
 
 Figure 3. Import of the theme supplied with the CyberPunk program
 
