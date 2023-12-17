@@ -1,38 +1,38 @@
 # ViewPictures
 
-I wrote an image viewer in C#.
+Я написал программу просмотра изображений на C#.
 
 ![image](Image/image-light.png)
 
-Figure 1. Screenshot of the main window with an open image in a light theme
+Рисунок 1. Скриншот главного окна с открытым изображением в светлой теме
 
 ![image](Image/image-black.png)
 
-Figure 2. Screenshot of the main window with an open image in a dark theme
+Рисунок 2. Скриншот главного окна с открытым изображением в темной теме
 
 ![image](Image/image-cyberpunk.png)
 
-Figure 3. Import of the theme supplied with the CyberPunk program
+Рисунок 3. Импорт темы, поставляемой в комплекте с программой CyberPunk
 
-## Advantages:
-+ Has a user-friendly design;
-+ The program is easily closed with the esc button;
-+ Supports image rotation;
-+ Quick launch;
-+ Files are opened not only through the "File->" buttonOpen", but also through dragon drop;
-+ If you set the default for viewing images, then everything will work by double-clicking on the image in any directory;
-+ It is possible to get information about the image;
-+ It is possible to scale the image with the mouse wheel and trackbar;
-+ It is possible to crop the image;
-+ It is possible to put an image on the desktop;
-+ Filters are available that allow you to change the image;
-+ The ability to change the screen resolution, which will not be reset after exiting;
-+ The ability to create your own themes, export them, as well as import;
-+ The theme that you installed last will not disappear even after exiting the program.
+## Преимущества:
++ Имеет удобный дизайн;
++ Программа легко закрывается кнопкой esc;
++ Поддерживает поворот изображения;
++ Быстрый запуск;
++ Файлы открываются не только через кнопку "Файл->Открыть", но и через драг он дроп;
++ Если установить просмотр изображений по умолчанию, то все будет работать по двойному клику по изображению в любой директории;
++ Есть возможность получить информацию об изображении;
++ Есть возможность масштабировать изображение колесиком мыши и трекбаром;
++ Есть возможность обрезать изображение;
++ Есть возможность поставить изображение на рабочий стол;
++ Доступны фильтры, позволяющие изменить изображение;
++ Возможность изменения размер приложения, которое не сбрасывается после выхода;
++ Возможность создавать свои темы, экспортировать их, а также импортировать;
++ Тема, которую вы установили последней, не исчезнет даже после выхода из программы.
 
-## Cons:
-- Dependent on Net;
-- Not optimized for working with strong image approximation;
-- Some filters are unoptimized and slow;
-- The image can be cropped when installed on the main screen;
-- The ability to change the font is disabled in the creation of the theme for now (or completely);
+## Минусы:
+- Зависит от .Net;
+- Не оптимизирован для работы с сильным приближением изображения;
+- Некоторые фильтры неоптимизированы и медленны;
+- Изображение можно обрезать при установке на главный экран;
+- Возможность смены шрифта отключена при создании темы на данный момент (или полностью);
